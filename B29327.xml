@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Scheme for erecting a friendly society for insuring lives being a beneficial proposal for all persons possesed of any bishops, dean and chapter leases, or any other lease or leases determinable on one or more life or lives, annuities in the exchequer, or places : as also a certain advantage to all clergymen and other persons, who are desirous to make some provision for their wives and children, or relations, after their decease, by insuring to their wives and children, or such others as they shall appoint, a considerable dividend out of 100000 1. on his, her, or their deaths.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29327</idno><idno type="EEBO-CITATION">17196702</idno>
+  <idno type="VID">206384</idno>
+  <idno type="EEBO-PROQUEST">2248525780</idno>
+  
+            <idno type="STC">Wing S861</idno>
+            <idno type="OCLC">17196702</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206384)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1622:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Scheme for erecting a friendly society for insuring lives being a beneficial proposal for all persons possesed of any bishops, dean and chapter leases, or any other lease or leases determinable on one or more life or lives, annuities in the exchequer, or places : as also a certain advantage to all clergymen and other persons, who are desirous to make some provision for their wives and children, or relations, after their decease, by insuring to their wives and children, or such others as they shall appoint, a considerable dividend out of 100000 1. on his, her, or their deaths.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by  Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Insurance, Life --  England --  Plans.</term>
+               <term type="topical_term">Insurance --  England --  Plans.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:206384:1"/>
+            <head>A SCHEME for Erecting <hi>A Friendly Society</hi> For Insuring LIVES, BEING A Beneficial PROPOSAL</head>
+            <head type="sub">For all Persons possessed of any Bishops, Dean and Chapters Leases, or any other Lease or Leases determinable on one or more <hi>Life</hi> or <hi>Lives,</hi> Annuities in the <hi>Exchequer,</hi> or Places: As also a <hi>Certain Advantage</hi> to all Clergymen and other Persons, who are desirous to make <hi>some Provision</hi> for their <hi>Wives</hi> and <hi>Children,</hi> or <hi>Relations,</hi> after their <hi>Decease,</hi> by <hi>Insuring</hi> to their <hi>Wives</hi> and <hi>Children,</hi> or such others as they shall appoint, a <hi>Considerable Dividend</hi> out of 10000 <hi>l.</hi> on His, Her or Their <hi>Deaths.</hi>
+            </head>
+            <div type="proposals">
+               <head>'Tis Proposed,</head>
+               <p n="1">I. THAT 12000 <hi>l. per Annum,</hi> to be divided into 2000 Shares, at 6 <hi>l. per Annum</hi> each, shall be subscribed for; to be paid by each Subscriber during the re<g ref="char:EOLhyphen"/>spective Lives of certain Persons to be nominated, as herein after is men<g ref="char:EOLhyphen"/>tioned.</p>
+               <p n="2">II. That any Person may subscribe for as many Shares as he pleases,
+<note place="margin">Note, <hi>If a Sub<g ref="char:EOLhyphen"/>scriber names his own Life, then his Executor, or Ad<g ref="char:EOLhyphen"/>ministrator, or such other Person as he shall by his Will, or other Writing appoint, will be intituled to the Dividend upon his Death: But if he names the Life of any other Person then upon the Death of such Person, the Subscriber himself, his Executors, or Administra<g ref="char:EOLhyphen"/>tors, or such other Person, as he shall by his Will or other Writing appoint, will be intituled to the Dividend.</hi>
+                  </note> and may nominate either his own, or any other Life or Lives; but no one to subscribe for more than 5 Shares on one Life.</p>
+               <pb n="2" facs="tcp:206384:2"/>
+               <p n="3">III. That the Person or Persons for whose Life or Lives any one sub<g ref="char:EOLhyphen"/>scribes, shall be healthful, and be above the Age of Twelve Years, and under the Age of Fifty.</p>
+               <p n="4">IV. That so soon as the Subscrip<g ref="char:EOLhyphen"/>tions shall be compleated, Twelve Trustees shall be chosen out of the Subscribers for the Management of the Affairs of this Society; for which purpose publick Notice shall be gi<g ref="char:EOLhyphen"/>ven where a List of all the Subscri<g ref="char:EOLhyphen"/>bers Names may be seen; as like<g ref="char:EOLhyphen"/>wise the Time and Place ap<g ref="char:EOLhyphen"/>pointed for the chusing the said Trustees, and each Subscriber shall then and there deliver a List of the Twelve Persons he votes for, with his own Hand: Which List shall be filed and registred, and an impar<g ref="char:EOLhyphen"/>tial Scrutiny made at the same time and Place, by Four Persons to be chosen out of the Subscribers there present.</p>
+               <p n="5">V. That after the Trustees are chosen, they, or the major Part of them, shall, as soon as conveniently may be, make choice of a Place for keeping the Office of this Society, and likewise of a Cashire, and such other Officers and Servants, as they shall judge necessary; and sufficient Security shall be taken by the said Trustees for the Honesty and Inte<g ref="char:EOLhyphen"/>grity of such Cashire, who shall from time to time receive all Monies a<g ref="char:EOLhyphen"/>rising by this Office: And such Mo<g ref="char:EOLhyphen"/>ney, when it amounts to One hun<g ref="char:EOLhyphen"/>dred Pounds, shall be immediately delivered over to the said Trustees.</p>
+               <p n="6">VI. That the first Trustees, when chosen, shall continue fifteen Months, but afterwards Twelve Trustees shall be annually chosen, as in Ar<g ref="char:EOLhyphen"/>ticle the 4th. and in every List to be delivered in for chusing new Tru<g ref="char:EOLhyphen"/>stees, Four of the old Trustees of the preceeding Year, shall be incert<g ref="char:EOLhyphen"/>ed, and Eight new ones; and no one shall continue a Trustee above Three Years successively.</p>
+               <p n="7">VII. That any Five or more of the Trustees shall make a sufficient <hi>Quorum</hi> to approve the Lives, and no Life on which more than one Share is subscribed, shall be allowed, unless the Person whose Life is no<g ref="char:EOLhyphen"/>minated, do personally appear before the Trustees. But as to the Dispatch of all other Business re<g ref="char:EOLhyphen"/>lating to this Office, any Three of the Trustees shall make a sufficient <hi>Quorum</hi> to do the same, (Except where it is otherwise provided for by these Articles) and no Trustee to have a Vote in his own Case, but to withdraw during the Debate.</p>
+               <p n="8">VIII. That within Two Months after the Trustees are chosen, each Subscriber shall nominate his Life, and at the same time shall make his first yearly Payment, for which the Cashire shall then give a Receipt; and in Four Days afterwards such Person shall receive a Policy under the Hands and Seals of Three of the Trustees upon Delivery up of his said Receipt. And in Case any Person, whose Life is nominated, shall happen to die before the Policy is delivered, then the Subscriber, or such as claim under him, shall not<g ref="char:EOLhyphen"/>withstanding, in such Case, be in<g ref="char:EOLhyphen"/>tituled to the Dividend of that Year. And all Policies shall bear date up<g ref="char:EOLhyphen"/>on the Day of chusing the Tru<g ref="char:EOLhyphen"/>stees.</p>
+               <p n="9">IX. That in Case any Person shall neglect or refuse to nominate such Life as shall be approved of by the
+<pb n="3" facs="tcp:206384:2"/>Trustees, within the time limited by Article the 8th. the Trustees shall have Power to admit a new Sub<g ref="char:EOLhyphen"/>scriber in his Room; and such Per<g ref="char:EOLhyphen"/>son so refusing or neglecting, to be excluded all Benefit of this Propo<g ref="char:EOLhyphen"/>sal.</p>
+               <p n="10">X. That no Person's Life shall be nominated, but who shall be resi<g ref="char:EOLhyphen"/>dent in <hi>England</hi> or <hi>Wales;</hi> and if any Person, whose Life is nomi<g ref="char:EOLhyphen"/>nated, shall die in any other Place, or is sentenced to Death, and suf<g ref="char:EOLhyphen"/>fer, no Person shall be intituled to any part of that years Dividend on such Death; but nevertheless, such Person as would have been intituled, in Case the Nominee had died a na<g ref="char:EOLhyphen"/>tural Death in <hi>England</hi> or <hi>Wales,</hi> shall, within one Month afterwards, name another Life, to be approved of, as in Article the 7th. And in Default of such Nomination, the Trustees shall be at liberty to ad<g ref="char:EOLhyphen"/>mit another Subscriber in his Room.</p>
+               <p n="11">XI. That Six-pence <hi>per</hi> share be paid by every Subscriber, when he nominates his Life for each share he subscribes for, which is to be ap<g ref="char:EOLhyphen"/>plied by the Trustees towards the Charges of Printing and Publishing this Proposal, and the Residue (if any be) to be put into the publick Stock: Besides which, each Subscri<g ref="char:EOLhyphen"/>ber shall at the same time pay 7 <hi>s.</hi> for each share he subscribes for, towards the Charges of Policies, providing Books, and other neces<g ref="char:EOLhyphen"/>sary Expences; and every Year af<g ref="char:EOLhyphen"/>ter the first, each Subscriber shall also pay 12 <hi>d. per Annum</hi> for each share he subscribes for, over and above his yearly Payment of 6 <hi>l.</hi> towards the annual Charges of this Office.</p>
+               <p n="12">XII. That all succeeding yearly Payments shall be made on the first <hi>Monday</hi> after the end of each re<g ref="char:EOLhyphen"/>spective Year (reckoning the Year from the Day on which the first Trustees are chosen.) And in Case any Subscriber shall not make his said yearly Payments till a Month after they respectively become due, such Subscriber shall forfeit Ten shillings for every Kalendar Month in which he shall so make Default. And in Case any Subscriber shall not within one Kalendar Month after Notice in Writing signed by any Three of the Trustees for the time being, given to such Subscriber or his Agent, to be appointed, as in Article the 21st. pay all Arrears of his said yearly Payments, and all Forfeitures incurred due for the same, such Subscriber, and all claim<g ref="char:EOLhyphen"/>ing by or under him, shall from thenceforth be excluded all Bene<g ref="char:EOLhyphen"/>fit and Advantage arising by these Proposals, and then, and in such Case the Trustees, or any Three of them, shall admit a new Subscriber in his Room.</p>
+               <p n="13">XIII. That after the Sum of 12000 <hi>l.</hi> is paid into the Hands of the Trustees, 10000 <hi>l.</hi> thereof shall (as soon as conveniently may be) be laid out into a Purchase of Land, Ground-Rents, Fee-Farm Rents, Bankers Assignments, or other suf<g ref="char:EOLhyphen"/>ficient Security, to be settled on the Trustees, as Counsel shall ad<g ref="char:EOLhyphen"/>vise, for a Fund to answer all Claims that shall be made upon this Office. And till such Purchase can be found out, the said 10000 <hi>l.</hi> shall be lodg'd in the Bank of <hi>England,</hi> on their sealed Bills.</p>
+               <pb n="4" facs="tcp:206384:3"/>
+               <p n="14">XIV. That 2000 <hi>l.</hi> (part of the 12000 <hi>l.</hi> in Article the 13th) shall be divided the first Year (reckon<g ref="char:EOLhyphen"/>ing the Year from the Day the Trustees are chosen) among the Nominors, or those intituled by or under them, of such Lives as shall die within that Year; and 10000 <hi>l.</hi> every Year afterwards.</p>
+               <p n="15">XV. That every Person, upon Receipt of his share or shares of the yearly Dividend of 10000 <hi>l.</hi> shall nominate another Life or Lives to supply the Place of the Per<g ref="char:EOLhyphen"/>son or Persons deceased; and at the time of Payment of such yearly Dividend, 12 <hi>l.</hi> and no more, shall be deducted out of each share there<g ref="char:EOLhyphen"/>of; which 12 <hi>l.</hi> shall be stopped to answer the two first yearly Pay<g ref="char:EOLhyphen"/>ments of the Person nominating a new Life or Lives; and when such Person nominates a new Life, he shall receive a new Po<g ref="char:EOLhyphen"/>licy or Policies,
+<note place="margin">Note, <hi>All new Policies to be gi<g ref="char:EOLhyphen"/>ven, shall be dated the same Day, on which the last yearly Payment preceeding the time of making such Policy, be<g ref="char:EOLhyphen"/>came due; to the end that all the yearly Payments, as well of the old as new Sub<g ref="char:EOLhyphen"/>scribers, may be<g ref="char:EOLhyphen"/>come due, and be paid at one and the same time.</hi>
+                  </note> pay<g ref="char:EOLhyphen"/>ing for each Policy Six shillings, or pro<g ref="char:EOLhyphen"/>portionably for so many shares as the said Policy shall be for. And in Case any Person, upon his Receipt of his said Dividend, shall re<g ref="char:EOLhyphen"/>fuse to nominate an<g ref="char:EOLhyphen"/>other Life or Lives, or shall not nomi<g ref="char:EOLhyphen"/>nate such as shall be approved of by the said Trustees, such Person shall forfeit the said Money deducted out of his Dividend, as aforesaid, and shall from thence<g ref="char:EOLhyphen"/>forth be excluded all further Bene<g ref="char:EOLhyphen"/>fit of this Proposal, and the Tru<g ref="char:EOLhyphen"/>stees shall admit any other Person in his Room.</p>
+               <p n="16">XVI. That within a Month af<g ref="char:EOLhyphen"/>ter the Death of every Person, whose Life is nominated, a Certificate shall be produced to, and left with the Trustees of the Death of such Person, signed by the Minister and Churchwardens of the Parish where such Person died, together with an <hi>Affidavit</hi> in Writing, of its being duly signed by the said Parties; but before such Certificate is signed, Notice shall be given to the Tru<g ref="char:EOLhyphen"/>stees of the Death of such Person, and where and when he died; to the Intent that the Trustees may (if they think sit) appoint some Person that they know, to be a Witness to the signing of the Cer<g ref="char:EOLhyphen"/>tificate.</p>
+               <p n="17">XVII. That to the intent, no Person may be excluded his Divi<g ref="char:EOLhyphen"/>dend of that Year, in which his Life drops,
+<note place="margin">Note, <hi>This will prevent all Dis<g ref="char:EOLhyphen"/>putes that may crise after a Di<g ref="char:EOLhyphen"/>vidend is made.</hi>
+                  </note> tho' but a Day before the end of the Year, no Di<g ref="char:EOLhyphen"/>vidend shall be made, till a Month after the end of each Year; from which time Warrants shall be made out for the Payment thereof; and every Person shall be allowed that time to produce his Certificate to the Trustees; in De<g ref="char:EOLhyphen"/>fault hereof, such Person shall be excluded from any Benefit of this Proposal. But nevertheless, in such Case, such Person shall have a Months time longer to name a new Life; but in Default thereof, the Trustees shall have Power to admit a new Subscriber in his Room.</p>
+               <pb n="5" facs="tcp:206384:3"/>
+               <p n="18">XVIII. That the Profits arising by the 10000 <hi>l.</hi> reserved out of the first year's Contributions and of the 2000 <hi>l.</hi> every succeeding year, the Monies paid for the Policies, Change of Lives, the Twelve pences men<g ref="char:EOLhyphen"/>tioned in Article the 11th. and all other Profits arising by this Propo<g ref="char:EOLhyphen"/>sal (after Deduction of the Tru<g ref="char:EOLhyphen"/>stees Salaries, and all other Char<g ref="char:EOLhyphen"/>ges incident to the Support and Maintenance of this Office) an Ac<g ref="char:EOLhyphen"/>count of which shall from time to time be entred in a Book to be kept for that Purpose) shall be divided equally amongst the Subscribers, as often as shall be thought convenient by the said Trustees.</p>
+               <p n="19">XIX. That every Subscriber shall, with the Approbation of the Tru<g ref="char:EOLhyphen"/>stees, change his Life as often as he pleases, and take a new Policy for the same, paying for every Policy for one Life, Twenty Shillings, and so in Proportion, if for two or more Lives: And in like manner, where any Person has more shares than one upon a Life, he shall be at Li<g ref="char:EOLhyphen"/>berty at any time afterwards to change his Policy, and to nominate as many Lives as he has shares, and take a new Policy for each share, paying for each Policy Twenty Shil<g ref="char:EOLhyphen"/>lings: So likewise any Person may change his Life depending on any Number of shares, not exceeding Five, into one Life, paying for such Policy Twenty Shillings.</p>
+               <p n="20">XX. That all Sums of Money, over and above the 10000 <hi>l.</hi> to be laid out in a Purchase, as in Article the 13th, which shall come into the Hands of the Trustees, shall from time to time be placed out at In<g ref="char:EOLhyphen"/>terest, either upon any publick Fund, or other sufficient Security, to be approved of by the Major part of all the Trustees; and till Se<g ref="char:EOLhyphen"/>curities can be had, the Money to be kept in an Iron Chest with three Locks, (the Keys whereof shall be kept by the three Trustees in wait<g ref="char:EOLhyphen"/>ing) or else shall be lodged in the Bank of <hi>England,</hi> as the Major part of all the Trustees shall think fit<g ref="char:EOLhyphen"/>ting.</p>
+               <p n="21">XXI. That publick Notice shall be given in the Gazette, or other publick Paper, of all General Meet<g ref="char:EOLhyphen"/>ings: And to the intent that no Subscriber shall at any time be ex<g ref="char:EOLhyphen"/>cluded the Benefit of this Proposal, for making any Default contrary to Article the 12th, without rea<g ref="char:EOLhyphen"/>sonable Notice, a Register shall be kept of all the Subscribers Names, and Places of their Abode; and such Persons who live out of the Bills of Mortality, shall, when they receive their Policy, name some Person living within the same, to whom Notice may from time to time be given, as Occasion shall re<g ref="char:EOLhyphen"/>quire; and such Notice shall be deemed as good to all Intents, as tho' the Party himself had been perso<g ref="char:EOLhyphen"/>nally served therewith.</p>
+               <p n="22">XXII. That the Major part of the Trustees shall have Power to set the Salaries of all their Officers, and from time to time to remove such as do not their Duty, and to regulate all Matters relating to their own Attendance for the Dispatch of Business; but the constant Atten<g ref="char:EOLhyphen"/>dance of the Trustees shall not be seldomer than once a Week; and each Trustee shall have 30 <hi>l.</hi> a year for his Care and Pains in attending the Business of this Society.</p>
+               <pb n="6" facs="tcp:206384:4"/>
+               <p n="23">XXIII. That a General Meeting of the Subscribers shall be always held on the last <hi>Thursday</hi> before the old Trustees go out, for the Choice of new ones; at which time the Trustees shall give an Account to the Subscribers there present, of all material Transactions of the pre<g ref="char:EOLhyphen"/>ceeding Year, relating to this So<g ref="char:EOLhyphen"/>ciety.</p>
+               <p n="24">XXIV. That every Subscriber shall have Liberty from time to time to peruse all the Books of the Of<g ref="char:EOLhyphen"/>fice <hi>gratis.</hi>
+               </p>
+               <p n="25">XXV. That these Articles shall be ingrossed and signed by every Subscriber; and each Subscriber at the time of receiving his Policy, shall enter into a Covenant with the Trustees for the yearly Payment of Six Pounds One Shilling for every Share he subscribes for, during the Life of the Person, whose Life he nominates, and of all Forfeitures that he may incur for Non-payment thereof, as in Article the 12th.</p>
+               <p n="26">XXVI. That in Case any Suit shall happen to be commenced a<g ref="char:EOLhyphen"/>gainst the Trustees, or any of them, for any thing that they shall do in pur<g ref="char:EOLhyphen"/>suance of these Articles, the Charges of defending such Suit, shall be paid out of the publick Stock.</p>
+               <p n="27">XXVII. That in Case any Mo<g ref="char:EOLhyphen"/>nies that shall be placed out at In<g ref="char:EOLhyphen"/>terest, according to Article the 20th, shall happen to be lost, the Trustees shall not be answerable for such Money; and no Trustee to be charged or chargeable for the Act of any other of the Trustees, but for his own Act and Deed only.</p>
+               <p n="28">XXVIII. That any Alterations or Additions may be made in or to these Articles by a General Meeting, but not otherwise.</p>
+            </div>
+            <div type="part">
+               <p>THE <hi>Advantages</hi> arising by this Proposal, are so <hi>many</hi> and so <hi>obvious,</hi> that it will be needless to say much to induce any one to come in<g ref="char:EOLhyphen"/>to it.</p>
+               <p>There is no one ('tis presum'd) need be told, That by being a <hi>Sub<g ref="char:EOLhyphen"/>scriber</hi> here, he may <hi>Insure</hi> his own, or any other <hi>Life,</hi> upon much <hi>easier,</hi> as well as <hi>safer</hi> Terms, than he can any other way. A Man that pays 6 <hi>l.</hi> a Year upon one Life, will, in all likelihood, when that Life <hi>drops</hi> (admit<g ref="char:EOLhyphen"/>ting it is not the first Year) receive 400 <hi>l.</hi> if not more, besides a <hi>Di<g ref="char:EOLhyphen"/>vidend</hi> of Profits in the mean time, which will <hi>reduce</hi> his yearly Payment; so that for about 25 <hi>s. per Cent. per Annum,</hi> any Person may here <hi>Insure a Life;</hi> whereas in the common Method of Insuring Lives, a Man must pay 4 or 5 <hi>Guineas per Cent.</hi> and be content with <hi>Personal Security;</hi> and this he can do for no <hi>longer</hi> than a year at a time; and then if a Person grows <hi>sickly,</hi> his Life can be no <hi>longer insured,</hi> unless upon extravagant Terms; But in this Office any one may <hi>Insure</hi> a Life <hi>once for all;</hi> and if it be but <hi>healthy</hi> at the time when it is nominated, 'tis no matter how soon after<g ref="char:EOLhyphen"/>wards it becomes otherwise</p>
+               <p>There are <hi>abundance</hi> of People, whose <hi>All</hi> consists in an Estate, either for their own or others Lives; there are <hi>others</hi> that have Trades, by which
+<pb n="7" facs="tcp:206384:4"/>they can tolerably provide for themselves and Families during their own Lives: But as the <hi>Income</hi> both of the one and the other <hi>ceases,</hi> when the Person dies, their Families are many times left <hi>unprovided</hi> at their Deaths; but any Person by <hi>subscribing here,</hi> and sparing a <hi>little</hi> out of his <hi>yearly Profits,</hi> will secure some <hi>Recompence</hi> to his Family, when they are deprived of that Life by which they <hi>subsisted.</hi>
+               </p>
+               <p>In most other <hi>Proposals</hi> of this Nature, no one can be <hi>certain</hi> what his yearly Payment will amount to, but that <hi>Objection</hi> is here removed; and though it is uncertain how much his yearly Payment will be <hi>reduced</hi> by the <hi>Dividends</hi> of Profits, yet this every Subscriber is <hi>sure of,</hi> that he can never pay more than 6 <hi>l.</hi> 1 <hi>s. a Year</hi> for each Share he subscribes for.</p>
+               <p>It may not be <hi>amiss</hi> to add here, That the <hi>Persons engaged</hi> in this Under<g ref="char:EOLhyphen"/>taking propose no <hi>Advantages</hi> to themselves, but what any one may be <hi>in<g ref="char:EOLhyphen"/>tituled</hi> to, by becoming a <hi>Subscriber:</hi> They have ('tis true) taken some <hi>Pains,</hi> and been at some <hi>Charge</hi> to form this <hi>Design,</hi> and must be at <hi>more</hi> to carry it on: But as they have no <hi>other Ends</hi> by it, besides being <hi>Mem<g ref="char:EOLhyphen"/>bers</hi> themselves, but of promoting a <hi>publick Good,</hi> 'tis to be hop'd, that no one will <hi>discourage</hi> so <hi>disinteress'd,</hi> and yet so <hi>useful an Ʋndertaking.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
